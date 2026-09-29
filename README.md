@@ -262,13 +262,13 @@ My current goal is to deepen my expertise in building **robust, maintainable, an
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0samaSayedSharaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0samaSayedSharaf&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0samaSayedSharaf&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0samaSayedSharaf&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
