@@ -2,9 +2,9 @@
 
 # Hi, I'm Osama Sayed Ahmed 👋
 
-### Java Software Engineer | Backend Developer | ERP Systems
+### Java Software Engineer | Backend Developer
 
-**Building reliable backend systems with Java, Spring Boot, and Enterprise Technologies.**
+**Building reliable backend and enterprise systems with Java, Spring Boot, and modern backend technologies.**
 
 <p>
   <a href="https://github.com/0samaSayedSharaf">
@@ -24,50 +24,65 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Java Software Engineer** with hands-on experience in **Enterprise Java applications, ERP systems, backend development, and database-driven applications**.
+I'm a **Java Software Engineer** focused on **Backend Development, Enterprise Applications, and ERP Systems**.
 
-My professional experience includes developing and maintaining business applications using **Java, EJB, JSF/PrimeFaces, JPA, MySQL, REST APIs, and enterprise application technologies**.
+I have hands-on professional experience developing and maintaining business applications using **Java, EJB, JSF, PrimeFaces, JPA, JPQL, MySQL, REST APIs, and JasperReports**.
 
-I'm also expanding my backend expertise with **Spring Boot and Microservices**, focusing on building clean, maintainable, and scalable backend services.
+Alongside enterprise Java development, I'm expanding my backend expertise with **Spring Boot and Microservices**, working with modern backend practices such as **RESTful API design, DTO-based architecture, JWT authentication, service-to-service communication, validation, exception handling, and database integration**.
 
-I enjoy working close to the system's core — understanding the **business logic, database structure, backend architecture, APIs, and the way everything works together**.
+I enjoy understanding how systems work end-to-end — from **business logic and database design to APIs, backend architecture, and production debugging**.
 
 ---
 
-## 🚀 What I Do
+## 💼 Professional Experience
+
+### Software Engineer — ISAG
+
+Working on **enterprise ERP and backend systems**, contributing to the development, maintenance, debugging, and enhancement of business-critical applications.
+
+### Key Responsibilities
+
+- Develop and maintain Java-based ERP modules
+- Implement business logic and application features
+- Work with **EJB, JSF, PrimeFaces, JPA, and JPQL**
+- Develop and maintain **RESTful services**
+- Work with **MySQL, SQL queries, and database-driven applications**
+- Debug application, backend, and database issues
+- Troubleshoot persistence and ORM-related problems
+- Maintain and extend existing enterprise codebases
+- Develop and modify **JasperReports**
+- Investigate production issues and real-world business scenarios
+- Develop backend services using **Spring Boot and Microservices**
+
+---
+
+## 🚀 Backend Focus
 
 ```text
-Enterprise Java
-      │
-      ├── EJB
-      ├── JSF / PrimeFaces
-      ├── JSP / Servlets
-      ├── JPA / JPQL
-      └── ERP Systems
-              │
-              ▼
-       Backend Development
-              │
-              ├── Spring Boot
-              ├── REST APIs
-              ├── Hibernate / JPA
-              ├── JWT
-              ├── Feign Client
-              └── Microservices
-              │
-              ▼
-          Data Layer
-              │
-              ├── MySQL
-              ├── SQLite
-              └── SQL
+Java
+  │
+  ├── Enterprise Java
+  │     ├── EJB
+  │     ├── JSF / PrimeFaces
+  │     ├── JSP / Servlets
+  │     ├── JPA / JPQL
+  │     └── ERP Systems
+  │
+  └── Modern Backend
+        ├── Spring Boot
+        ├── REST APIs
+        ├── Spring Data JPA
+        ├── Hibernate
+        ├── JWT Authentication
+        ├── Feign Client
+        └── Microservices
 ```
 
 ---
 
 # 🛠️ Tech Stack
 
-### ☕ Java & Backend
+## ☕ Java & Backend
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -78,7 +93,7 @@ Enterprise Java
 <img src="https://img.shields.io/badge/EJB-5382A1?style=for-the-badge"/>
 </p>
 
-### 🌐 Enterprise Java
+## 🌐 Enterprise Java
 
 <p>
 <img src="https://img.shields.io/badge/JSF-5382A1?style=for-the-badge"/>
@@ -90,7 +105,7 @@ Enterprise Java
 <img src="https://img.shields.io/badge/GlassFish-1B6AC6?style=for-the-badge"/>
 </p>
 
-### 🔗 Backend & APIs
+## 🔗 APIs & Microservices
 
 <p>
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
@@ -100,7 +115,7 @@ Enterprise Java
 <img src="https://img.shields.io/badge/Microservices-333333?style=for-the-badge"/>
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -108,7 +123,7 @@ Enterprise Java
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### 🖥️ Desktop & Reporting
+## 🖥️ Desktop & Reporting
 
 <p>
 <img src="https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge"/>
@@ -116,7 +131,7 @@ Enterprise Java
 <img src="https://img.shields.io/badge/JasperReports-6B7280?style=for-the-badge"/>
 </p>
 
-### 🔧 Tools
+## 🔧 Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -128,66 +143,26 @@ Enterprise Java
 
 ---
 
-# 💼 Professional Experience
+## 🧠 Backend Engineering Skills
 
-### Software Engineer — ISAG
-
-I work on **Enterprise Java and ERP applications**, contributing to the development, maintenance, and enhancement of business-critical software.
-
-My work includes:
-
-* Developing and maintaining Java-based ERP modules
-* Implementing business logic and application features
-* Working with EJB, JSF, PrimeFaces, JPA, and JPQL
-* Developing and modifying RESTful services
-* Working with MySQL and SQL queries
-* Debugging application and database issues
-* Troubleshooting JPA/Hibernate mapping problems
-* Working with existing enterprise codebases
-* Developing and modifying JasperReports
-* Investigating real-world application and database issues
-
-I'm also working with **Spring Boot and Microservices**, developing backend services and working with modern backend practices.
-
----
-
-# 🚀 Backend Development
-
-My current backend focus is centered around:
-
-```java
-Java
-   ↓
-Spring Boot
-   ↓
-REST APIs
-   ↓
-Spring Data JPA / Hibernate
-   ↓
-JWT Authentication
-   ↓
-Microservices
-   ↓
-Database & Service Integration
-```
-
-### Backend Concepts
-
-* RESTful API Design
-* Layered Architecture
-* DTO-based API Design
-* JPA / Hibernate
-* Database Relationships
-* Pagination
-* Dynamic Filtering
-* Specifications
-* Validation
-* Exception Handling
-* Soft Delete
-* JWT Authentication
-* Service-to-Service Communication
-* Feign Client
-* Business Logic Implementation
+- RESTful API Design
+- Layered Architecture
+- DTO-based API Design
+- Spring Boot
+- Spring Data JPA
+- Hibernate / JPA
+- Database Relationships
+- Pagination & Filtering
+- Spring Specifications
+- Bean Validation
+- Exception Handling
+- Soft Delete
+- JWT Authentication
+- Service-to-Service Communication
+- Feign Client
+- Business Logic Implementation
+- SQL & Database Integration
+- Enterprise Application Debugging
 
 ---
 
@@ -197,54 +172,54 @@ Database & Service Integration
 
 **AI-powered smart farming and farm management system.**
 
-A project combining **Artificial Intelligence, Deep Learning, and IoT** to support smart agricultural management.
+A multidisciplinary project combining **Artificial Intelligence, Deep Learning, and IoT** to support smart agricultural management.
 
 ### Technologies
 
-`Python` `TensorFlow` `Keras` `IoT` `NodeMCU` `Deep Learning`
+`Python` `TensorFlow` `Keras` `Deep Learning` `IoT` `NodeMCU`
 
 ### Contributions
 
-* Contributed to the IoT architecture
-* Worked with AI/deep learning models
-* Supported system architecture
-* Participated in team coordination and development
+- Contributed to IoT architecture
+- Worked with AI and deep learning components
+- Supported overall system architecture
+- Participated in development and team coordination
 
 ---
 
 ## 🏢 ERP & Business Management Systems
 
-Experience developing business-oriented applications covering areas such as:
+Professional experience working on business applications and ERP modules covering areas such as:
 
-* Sales
-* Inventory
-* Customers
-* Suppliers
-* Accounting
-* Payments
-* Warehouse Management
-* Orders
-* Reporting
+- Sales
+- Inventory
+- Customers
+- Suppliers
+- Accounting
+- Payments
+- Warehouse Management
+- Orders
+- Reporting
 
 ### Technologies
 
-`Java` `EJB` `JSF` `PrimeFaces` `JPA` `JPQL` `MySQL` `JasperReports`
+`Java` `EJB` `JSF` `PrimeFaces` `JPA` `JPQL` `MySQL` `REST APIs` `JasperReports`
 
 ---
 
 ## 🛒 POS & Inventory Applications
 
-JavaFX-based business applications for managing:
+Java-based desktop applications for managing business operations such as:
 
-* Products
-* Inventory
-* Sales
-* Orders
-* Customers
-* Payments
-* Delivery
-* Shifts
-* Reports
+- Products
+- Inventory
+- Sales
+- Orders
+- Customers
+- Payments
+- Delivery
+- Shifts
+- Reports
 
 ### Technologies
 
@@ -252,43 +227,42 @@ JavaFX-based business applications for managing:
 
 ---
 
-# 🧠 Engineering Interests
-
-I'm particularly interested in:
-
-* Backend Engineering
-* Enterprise Applications
-* Java Ecosystem
-* Spring Boot
-* Microservices
-* REST API Design
-* Database Design
-* Software Architecture
-* Clean Code
-* Scalable Backend Systems
-* ERP & Business Software
-
----
-
-# 🌱 Currently Improving
+## 🌱 Currently Improving
 
 ```text
-Spring Boot
-    │
-    ├── REST API Design
-    ├── Spring Data JPA
-    ├── Hibernate
-    ├── Security & JWT
-    ├── Microservices
-    ├── Service Communication
-    └── Software Architecture
+Backend Engineering
+      │
+      ├── Spring Boot
+      ├── REST API Design
+      ├── Spring Data JPA
+      ├── Hibernate
+      ├── Security & JWT
+      ├── Microservices
+      ├── Service Communication
+      └── Software Architecture
 ```
 
-My goal is to continuously move toward building **robust, maintainable, scalable backend systems**.
+My current goal is to deepen my expertise in building **robust, maintainable, and scalable backend systems**.
 
 ---
 
-# 📊 GitHub Activity
+## 🎯 Engineering Interests
+
+- Backend Engineering
+- Java Ecosystem
+- Spring Boot
+- Enterprise Applications
+- Microservices
+- REST API Design
+- Database Design
+- Software Architecture
+- Clean Code
+- Scalable Backend Systems
+- ERP & Business Software
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -300,27 +274,35 @@ My goal is to continuously move toward building **robust, maintainable, scalable
 
 ---
 
-# 📈 Contribution Streak
+## 📈 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=0samaSayedSharaf&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=0samaSayedSharaf&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Career Focus
+# 🎯 Career Direction
 
-My primary career focus is:
+My primary focus is **Java Backend Development**, with a long-term career direction toward:
 
-**Java Backend Development**
+```text
+Java
+  ↓
+Spring Boot
+  ↓
+Backend Engineering
+  ↓
+Microservices
+  ↓
+Distributed Systems
+  ↓
+Software Architecture
+```
 
-with a long-term direction toward:
-
-**Java → Spring Boot → Backend Engineering → Microservices → Software Architecture**
-
-I’m interested in developing reliable systems, solving real-world engineering problems, and continuously improving my understanding of backend architecture.
+I aim to build reliable software, solve real-world engineering problems, and continuously improve my understanding of backend systems and software architecture.
 
 ---
 
@@ -346,7 +328,7 @@ I’m interested in developing reliable systems, solving real-world engineering 
 
 <div align="center">
 
-### ☕ Java • 🌱 Spring Boot • 🔗 Backend • 🏢 ERP • 🗄️ Databases
+### ☕ Java • 🌱 Spring Boot • 🔗 Backend • 🏢 Enterprise Systems • 🗄️ Databases
 
 **Building software that solves real business problems.**
 
