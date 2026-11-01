@@ -8,15 +8,16 @@
 
 <p align="center">
   <a href="https://github.com/0samaSayedSharaf">
-    <img src="https://img.shields.io/badge/GitHub-0samaSayedSharaf-181717?style=flat&logo=github&logoColor=white&labelColor=181717"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/0samasayedsharaf/">
-    <img src="https://img.shields.io/badge/LinkedIn-Osama%20Sayed%20Ahmed-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:0sama.sayed.sharaf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 </div>
 
