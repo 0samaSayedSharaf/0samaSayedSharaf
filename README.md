@@ -311,21 +311,23 @@ I aim to build reliable software, solve real-world engineering problems, and con
 
 # 🤝 Let's Connect
 
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/0samasayedsharaf/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="assets/linkedin.svg" alt="LinkedIn - Connect"/>
 </a>
-
+&nbsp;
 <a href="mailto:0sama.sayed.sharaf@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="assets/email.svg" alt="Email - Contact"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/0samaSayedSharaf">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="assets/github.svg" alt="GitHub - Follow"/>
 </a>
 
 </div>
+
 
 ---
 
