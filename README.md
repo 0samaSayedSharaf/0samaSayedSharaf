@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/0samaSayedSharaf">
-    <img src="https://img.shields.io/badge/GitHub-0samaSayedSharaf-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0samaSayedSharaf-181717?style=plastic&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/0samasayedsharaf/">
     <img src="https://img.shields.io/badge/LinkedIn-Osama%20Sayed%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
