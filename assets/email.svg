@@ -1,0 +1,7 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="42" viewBox="0 0 125 42">
+  <rect width="125" height="42" rx="21" fill="#D94A3A"/>
+  <path d="M17 14h20v14H17z" fill="#fff" rx="2"/>
+  <path d="m17 15 10 8 10-8" fill="none" stroke="#D94A3A" stroke-width="2"/>
+  <text x="45" y="26" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="600">Email</text>
+</svg>
